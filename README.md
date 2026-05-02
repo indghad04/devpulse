@@ -40,5 +40,4 @@ npm start
 - Backend: Node.js, Express.js, REST API
 - Data: Sample workbook data from assignment
 
-## AI Usage
-Claude was used to understand the assignment domain, summarize the workbook data, suggest architecture, and generate scaffolding. All metric logic was verified against the workbook's Metric_Examples sheet.
+
