@@ -40,4 +40,7 @@ npm start
 - Backend: Node.js, Express.js, REST API
 - Data: Sample workbook data from assignment
 
+<img width="1920" height="1020" alt="Screenshot 2026-05-08 160350" src="https://github.com/user-attachments/assets/e82a413b-38b1-48d5-acda-3c309066b42b" />
+<img width="1920" height="1020" alt="Screenshot 2026-05-08 160331" src="https://github.com/user-attachments/assets/18622e59-9bfe-4ba6-ae84-0192e886bc91" />
+<img width="1920" height="1020" alt="Screenshot 2026-05-08 160343" src="https://github.com/user-attachments/assets/c0d99115-e124-4d09-abcc-cdbf1fa07888" />
 
